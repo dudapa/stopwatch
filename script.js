@@ -5,7 +5,6 @@ const stopBtn = document.querySelector('.btn-stop');
 const resetBtn = document.querySelector('.btn-reset');
 let secondsCount = 0;
 let tensCount = 0;
-let isStopwachRunning = false;
 let interval;
 
 // Run time
